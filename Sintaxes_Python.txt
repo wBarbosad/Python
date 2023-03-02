@@ -1,0 +1,4 @@
+input = scanf = leia = input lê o que o usuário digita
+sintaxe: variavel = input('<texto>')
+
+INPUT = Entrada de dados; Print = Saída de dados.
